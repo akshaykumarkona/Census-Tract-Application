@@ -1,0 +1,15 @@
+streamlit==1.48.1
+geopandas==1.1.1
+pandas==2.3.1
+folium==0.20.0
+streamlit-folium==0.25.1
+shapely==2.1.1
+fastapi==0.116.1
+numpy==2.3.2
+tqdm==4.67.1
+uvicorn==0.35.0
+scikit-learn==1.7.1
+catboost==1.2.8
+lightgbm==4.6.0
+pytorch-tabnet==4.1.0
+xgboost==3.0.2
